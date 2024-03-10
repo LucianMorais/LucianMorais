@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LucianMorais !
+- 👀 I’m interested in Back End Development!
+- 🌱 I'm currently learning about the Python programming language, and as soon as I'm specialized, I'll start learning Java and PHP!
+- 💞️ I'm looking to contribute to the world of programming and sustainability!
+- ⚡ Fun fact: I'm studying Software Engineering!
