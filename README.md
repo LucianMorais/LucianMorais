@@ -1,8 +1,6 @@
-<h6 align="center">Hello!👋<br>My name is Luciano, I'm a developer and I'm graduating in Software Engineering. 🧠</h6>
+<h3 align="center">Hello!👋<br>My name is Luciano, I'm a developer and I'm graduating in Software Engineering. 🧠</h3>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">Technologies I'm proficient with:</h3>
 
@@ -26,13 +24,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">My stats:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucianMorais&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -41,17 +35,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LucianMorais/LucianMorais/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <h3 align="center">Social media:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luciano-morais-690348266/" target="_blank">
