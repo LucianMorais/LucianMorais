@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Technologies I'm proficient with:</h3>
+<h3 align="center">Some technologies I am proficient in:</h3>
 
 ###
 
